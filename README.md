@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sathwika 👋
 
-<!--
-**sathwikam12-art/sathwikam12-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💡 Interested in AI, IoT, and Cyber Safety  
+🚀 Building technology solutions for social impact  
 
-Here are some ideas to get you started:
+## Projects
+🔹 Mahila Tarazu – Talking weighing machine for rural women  
+🔹 KeySense AI – Smart keyboard detecting risky text  
+🔹 EmpowerHer – Smart period alert system for differently-abled girls  
+🔹 Silent Intelligence – AI detecting student hesitation in learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Android Development
+- IoT
+- Artificial Intelligence
+- Problem Solving
+
+## Connect With Me
+GitHub: https://github.com/sathwikam12-art
